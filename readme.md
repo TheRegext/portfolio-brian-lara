@@ -25,6 +25,6 @@ Esto es un enlace: [Enlace a Google](https://www.google.com)
 ```
 
 Una imagen de ejemplo:  
-![Imagen de ejemplo](https://via.placeholder.com/150)
+![Imagen de ejemplo](https://picsum.photos/200/300)
 
 > Esto es una cita.
